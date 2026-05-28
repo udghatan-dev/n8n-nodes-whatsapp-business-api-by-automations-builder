@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-whatsapp-business-api-by-automations-builder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "n8n community nodes for the WhatsApp Business API (send session messages, send template messages, receive webhooks).",
   "keywords": [
     "n8n-community-node-package",
