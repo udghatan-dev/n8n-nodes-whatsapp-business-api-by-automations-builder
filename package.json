@@ -11,14 +11,17 @@
     "meta"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/udghatan-dev/n8n-nodes-whatsapp-business-api-by-automations-builder",
   "author": {
     "name": "Automations Builder",
     "email": "care@automationsbuilder.com"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/udghatan-dev/n8n-nodes-whatsapp-business-api-by-automations-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/udghatan-dev/n8n-nodes-whatsapp-business-api-by-automations-builder/issues"
   },
   "main": "index.js",
   "scripts": {
